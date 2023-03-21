@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Import_Text_From_Excel_To_Word", "Import_Text_From_Excel_To_Word\Import_Text_From_Excel_To_Word.csproj", "{686F892E-F1E2-4B6C-A60B-DE0192A1385D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{686F892E-F1E2-4B6C-A60B-DE0192A1385D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686F892E-F1E2-4B6C-A60B-DE0192A1385D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686F892E-F1E2-4B6C-A60B-DE0192A1385D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686F892E-F1E2-4B6C-A60B-DE0192A1385D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2251C182-1CC5-4D97-B70D-95995670E939}
+	EndGlobalSection
+EndGlobal
